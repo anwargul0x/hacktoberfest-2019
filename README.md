@@ -30,7 +30,7 @@ Quantity is fun, quality is key
 Short term actions, long term impact
 [More on values →](https://hacktoberfest.digitalocean.com/details)
 
-### Contribution Guide
+# Contribution Guide
 
 To Contribute in a proper way so that I can merge the pull request:
 
