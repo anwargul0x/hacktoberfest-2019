@@ -1,4 +1,5 @@
 * [jamieburnip](https://github.com/jamieburnip)
 * [kerrance](https://github.com/kerrance)
 * [ooxaam](https://github.com/ooxaam)
+* [devmoses](https://github.com/devmoses)
 * [thomashockaday](https://github.com/thomashockaday)
