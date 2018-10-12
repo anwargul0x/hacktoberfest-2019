@@ -2,3 +2,4 @@
 * [kerrance](https://github.com/kerrance)
 * [ooxaam](https://github.com/ooxaam)
 * [devmoses](https://github.com/devmoses)
+* [haleybear](https://github.com/haleybear)
