@@ -2,4 +2,6 @@
 * [kerrance](https://github.com/kerrance)
 * [ooxaam](https://github.com/ooxaam)
 * [devmoses](https://github.com/devmoses)
+* [dugtrio91](https://github.com/dugtrio91)
 * [thomashockaday](https://github.com/thomashockaday)
+* [jpasholk](https://github.com/jpasholk)
