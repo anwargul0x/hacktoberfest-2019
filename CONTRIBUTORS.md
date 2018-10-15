@@ -3,3 +3,4 @@
 * [ooxaam](https://github.com/ooxaam)
 * [devmoses](https://github.com/devmoses)
 * [dugtrio91](https://github.com/dugtrio91)
+* [jpasholk](https://github.com/jpasholk)
