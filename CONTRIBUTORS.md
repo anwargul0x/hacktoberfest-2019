@@ -5,3 +5,4 @@
 * [dugtrio91](https://github.com/dugtrio91)
 * [thomashockaday](https://github.com/thomashockaday)
 * [jpasholk](https://github.com/jpasholk)
+* [haleybear](https://github.com/haleybear)
