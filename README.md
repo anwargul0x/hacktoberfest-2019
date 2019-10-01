@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-# Hacktoberfest 2018
-This project was created for Hacktoberfest 2018 so everyone can help contribute by creating a simple PR on the `CONTRIBUTORS.md`
+# Hacktoberfest 2019
+This project was created for Hacktoberfest 2019 so everyone can help contribute by creating a simple PR on the `CONTRIBUTORS.md`
 
 ### What is Hacktoberfest?
 
