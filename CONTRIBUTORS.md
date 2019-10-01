@@ -1,2 +1,2 @@
 * [jamieburnip](https://github.com/jamieburnip)
-* [coolnishant](https://github.com/coolnishant)
+*[lakshitf] (https://github.com/jamieburnip)
